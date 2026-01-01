@@ -42,4 +42,4 @@ I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-s
 <br>
 
 ---
-*“Simplicity is the soul of efficiency.”*
+*“Building cool stuff and breaking it immediately.”*
