@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Sean!
-<img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 
 I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-stack enthusiast who loves the intersection of clean architecture and algorithmic efficiency. Whether I'm optimizing a backend in Spring Boot or solving complex problems on Kattis, I enjoy building scalable and performant software. 🚀
 
