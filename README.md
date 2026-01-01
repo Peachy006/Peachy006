@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sean!
+## Hey I'm Sean!
 
 I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-stack enthusiast who loves the intersection of clean architecture and algorithmic efficiency. Whether I'm optimizing a backend in Spring Boot or solving complex problems on Kattis, I enjoy building scalable and performant software. 🚀
 
