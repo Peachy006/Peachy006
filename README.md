@@ -1,12 +1,14 @@
 ## Hey I'm Sean!
 
-I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-stack enthusiast who loves the intersection of clean architecture and algorithmic efficiency. Whether I'm optimizing a backend in Spring Boot or solving complex problems on Kattis, I enjoy building scalable and performant software. 🚀
+
+
+I am a **Software Development student at ITU Copenhagen**. I love building efficient Full-stack applications. I really enjoy competitive programming like Kattis or NCPC, I enjoy building scalable software.
 
 <br/>
 
 <img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="340px"/>
 
-### 🧐 More About Me:
+### More About Me:
 
 - 🎓 &nbsp; B.Sc. Software Development at **IT University of Copenhagen**
 - 🔭 &nbsp; Currently working on **Storebought** — a Spring Boot & TypeScript game
@@ -17,7 +19,7 @@ I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-s
 
 <br>
 
-### 🔨 Languages and Tools:
+### Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg" alt="springboot" height ="42px"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
@@ -32,7 +34,7 @@ I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-s
 
 <br>
 
-### 🛠️ Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
