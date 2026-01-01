@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Sean!
-<a href='https://www.linkedin.com/in/YOUR_LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/YOUR_GITHUB_USERNAME'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
+<a href='https://github.com/Peachy006'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 
 I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-stack enthusiast who loves the intersection of clean architecture and algorithmic efficiency. Whether I'm optimizing a backend in Spring Boot or solving complex problems on Kattis, I enjoy building scalable and performant software. 🚀
 
@@ -15,7 +14,7 @@ I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-s
 - 🏆 &nbsp; Active in **Competitive Programming** (LeetCode & Kattis)
 - ⚙️ &nbsp; Interested in **Scalable Web Architecture** and Algorithmic Efficiency
 - 💬 &nbsp; Ask me about **Java, Spring Boot, or React**
-- 📫 &nbsp; Reach out to me via [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+- 📫 &nbsp; Reach out to me via sedp@itu.dk
 
 <br>
 
@@ -31,10 +30,6 @@ I am a **Software Development student at ITU Copenhagen** 🇩🇰. I'm a full-s
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br><br>
-
-### 📊 Github Stats
-![Sean's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true)
 
 <br>
 
